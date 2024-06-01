@@ -7,6 +7,13 @@ Python 3.6
 Pytorch 1.8
 
 Tensorflow 2.6
+
+Pandas
+
+Numpy
+
+Tqdm
+
 ### Dependent repositories
 The implementation of the data processing and some baselines of our code are based on [PTUPCDR](https://github.com/easezyc/WSDM2022-PTUPCDR).​
 ### Dataset
