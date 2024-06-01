@@ -3,7 +3,9 @@
 This repository provides the implementations of DnmCDR.
 ### Requirements
 Python 3.6
+
 Pytorch 1.8
+
 Tensorflow 2.6
 ### Dependent repositories
 The implementation of the data processing and some baselines of our code are based on [PTUPCDR](https://github.com/easezyc/WSDM2022-PTUPCDR).​
