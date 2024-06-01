@@ -17,3 +17,7 @@ The dataset used in DnmCDR is [Amazon Reviews 5-score dataset](http://jmcauley.u
 You can use the following command to preprocess the dataset. The two-phase data preprocessing includes parsing the raw data and segmenting the mid data. The final data will be under ./data/ready.
 
 `python entry.py --process_data_mid 1 --process_data_ready 1`
+
+### Training model
+
+`python entry.py`
